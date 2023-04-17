@@ -11,6 +11,8 @@ public class Employee {
 
 	public String getEmpName() {
 		System.out.println("Modified at 21:007");
+		System.out.println("Pull");
+		
 		return empName;
 	}
 
