@@ -16,6 +16,7 @@ public class Employee {
 
 		System.out.println("Pull");
 		
+		System.out.println("After pull");
 
 		return empName;
 	}
